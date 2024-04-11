@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/madhuri2930.github.io/static/css/main.30898054.css",
+    "main.js": "/madhuri2930.github.io/static/js/main.0713c76f.js",
+    "static/media/cloud.png": "/madhuri2930.github.io/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/madhuri2930.github.io/index.html",
+    "main.30898054.css.map": "/madhuri2930.github.io/static/css/main.30898054.css.map",
+    "main.0713c76f.js.map": "/madhuri2930.github.io/static/js/main.0713c76f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30898054.css",
+    "static/js/main.0713c76f.js"
+  ]
+}
